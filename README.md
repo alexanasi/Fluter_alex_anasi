@@ -1,17 +1,22 @@
-# flutter_application_1
+# 📊 Dashboard Empresarial en Flutter
 
-A new Flutter project.
+Aplicación desarrollada en Flutter como práctica académica.
 
-## Getting Started
+## 🚀 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Interfaz tipo dashboard
+- Menú lateral
+- Tarjetas de indicadores
+- Botón de acción con SnackBar
+- Navegación entre pantallas
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tecnologías
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ▶️ Ejecución
+
+```bash
+flutter run -d chrome
+```
