@@ -176,7 +176,7 @@ class HomeScreen extends StatelessWidget {
                     Spacer(),
 
                     Text(
-                      'Sistema desarrollado en Flutter\nDatos estáticos en Dart',
+                      'Sistema desarrollado en Flutter\nConselectro',
                       style: TextStyle(color: Colors.white54, fontSize: 11),
                     ),
                   ],
